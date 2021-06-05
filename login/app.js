@@ -1,11 +1,11 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyCxTHYADPh8vbN4cYw9YMB4tvvi_d7VXmg",
-  authDomain: "codelabs-4373c.firebaseapp.com",
-  projectId: "codelabs-4373c",
-  storageBucket: "codelabs-4373c.appspot.com",
-  messagingSenderId: "835368477952",
-  appId: "1:835368477952:web:f0a339b55b5dc460bdffe5",
-  measurementId: "G-9KHLDL9H2H"
+  apiKey: "AIzaSyBXFca_dG4kGlVXXNfP9EXxy4oAQTtELBk",
+  authDomain: "virtual-labs-a693a.firebaseapp.com",
+  projectId: "virtual-labs-a693a",
+  storageBucket: "virtual-labs-a693a.appspot.com",
+  messagingSenderId: "980587297692",
+  appId: "1:980587297692:web:59f6f255d49e660ba3e659",
+  measurementId: "G-M9YB3KQ2M8"
 };
 
 firebase.initializeApp(firebaseConfig);
