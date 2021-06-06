@@ -87,7 +87,7 @@ var firebaseConfig = {
       
           });
          
-          location.reload();
+          //location.reload();
           
 
   }
